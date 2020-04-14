@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "asf+zmBgkFAIUkEOhRNRh2L1S+jhjKNe7uRu+07sf+b9nnWKwHeB28F2oNPdgO5uY4mhdiBgwgS8szNc86grjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xiaomi\\source\\repos\\C#\\КСиС\\2\\Server\\ChatServer\\ChatServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Xiaomi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

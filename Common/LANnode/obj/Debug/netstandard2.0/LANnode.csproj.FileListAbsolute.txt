@@ -6,3 +6,4 @@ C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2
 C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.AssemblyInfo.cs
 C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.dll
 C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.pdb
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.csproj.CoreCompileInputs.cache

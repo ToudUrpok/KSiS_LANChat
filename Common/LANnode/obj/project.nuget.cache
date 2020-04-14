@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mVU89UOQBJL+pl3DSyNxjtTbAxbVt6ORUeRmve5DJZQ2V1fkOhSkw0Wfm5ueojwkNUpQpcyp42Jqpffahx3zBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Xiaomi\\source\\repos\\C#\\КСиС\\2\\Common\\LANnode\\LANnode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

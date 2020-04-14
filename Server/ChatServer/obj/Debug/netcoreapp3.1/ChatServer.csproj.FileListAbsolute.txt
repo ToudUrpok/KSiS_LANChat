@@ -12,3 +12,5 @@ C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreap
 C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CopyComplete
 C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.dll
 C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.genruntimeconfig.cache
