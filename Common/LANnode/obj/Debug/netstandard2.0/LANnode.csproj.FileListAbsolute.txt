@@ -1,0 +1,8 @@
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\bin\Debug\netstandard2.0\LANnode.deps.json
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\bin\Debug\netstandard2.0\LANnode.dll
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\bin\Debug\netstandard2.0\LANnode.pdb
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.dll
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Common\LANnode\obj\Debug\netstandard2.0\LANnode.pdb

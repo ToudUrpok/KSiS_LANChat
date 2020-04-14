@@ -1,0 +1,14 @@
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.exe
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.deps.json
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.json
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.runtimeconfig.dev.json
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\ChatServer.pdb
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\LANnode.dll
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\bin\Debug\netcoreapp3.1\LANnode.pdb
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.AssemblyInfo.cs
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.dll
+C:\Users\Xiaomi\source\repos\C#\КСиС\2\Server\ChatServer\obj\Debug\netcoreapp3.1\ChatServer.pdb
